@@ -29,7 +29,7 @@
             tapping-term-ms = <200>;
             bindings = <&kp>, <&kp>;
 
-            quick-tap-ms = <80>;
+            quick-tap-ms = <1000>;
         };
 
         lt_repeat: lt_repeat {
