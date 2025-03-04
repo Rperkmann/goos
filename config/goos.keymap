@@ -28,6 +28,8 @@
             flavor = "balanced";
             tapping-term-ms = <200>;
             bindings = <&kp>, <&kp>;
+
+            quick-tap-ms = <80>;
         };
 
         lt_repeat: lt_repeat {
